@@ -15,11 +15,6 @@
         "privremena": false
     },
     {
-        "naziv": "Tablica za motokultivatore",
-        "cena": 1173,
-        "privremena": false
-    },
-    {
         "naziv": "Tablica za traktore i radne mašine",
         "cena": 1173,
         "privremena": false
@@ -27,11 +22,6 @@
     {
         "naziv": "Tablice za privremeno registrovane teške četvorocikle, putnička vozila, autobuse, trolejbuse i teretna vozila sa oznakom 'PR'",
         "cena": 2560,
-        "privremena": true
-    },
-    {
-        "naziv": "Tablice za teške četvorocikle, putnička vozila, autobuse i teretna vozila koji se odvoze iz Republike Srbije sa oznakom 'RPE'",
-        "cena": 2193,
         "privremena": true
     }
 ]
